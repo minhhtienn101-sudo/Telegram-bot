@@ -1,3 +1,4 @@
 pyTelegramBotAPI
+telethon
 edge-tts
 requests
